@@ -1,0 +1,3 @@
+﻿  Viborom.cpp
+d:\semestr4\aisd\lab4_1\lab4_1\viborom.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab4_1.vcxproj -> D:\SEMESTR4\AiSD\lab4_1\Debug\lab4_1.exe
