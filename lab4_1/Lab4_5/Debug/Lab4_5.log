@@ -1,5 +1,0 @@
-﻿  Batcher.cpp
-d:\semestr4\aisd\lab4_1\lab4_5\batcher.cpp(31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-d:\semestr4\aisd\lab4_1\lab4_5\batcher.cpp(35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-d:\semestr4\aisd\lab4_1\lab4_5\batcher.cpp(12): warning C4715: logForT: значение возвращается не при всех путях выполнения
-  Lab4_5.vcxproj -> D:\SEMESTR4\AiSD\lab4_1\Debug\Lab4_5.exe
